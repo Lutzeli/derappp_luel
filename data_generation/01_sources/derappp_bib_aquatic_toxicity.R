@@ -11,8 +11,19 @@ derappp_bib_aquatic_toxicity <- c(
     file = 'EU_DAR_dRAR/amisulbrom_12_vol3_b9_ecotox_february_2012_public'
   ),
   BibEntry(
+    key = 'boscalid_RAR_22_LoEP_2018-11-09',
+    title = 'Boscalid RAR LoEP',
+    series = 'Boscalid RAR 2018',
+    bibtype = 'Report',
+    institution = 'European Commission',
+    author = 'Anonymous',
+    type = 'Draft Assessment Report (DAR)',
+    year = '2018',
+    file = 'EU_DAR_dRAR/Boscalid_RAR_2018/boscalid_RAR_22_LoEP_2018-11-09',
+  ),
+  BibEntry(
     key = 'Captan_DAR_07_Vol_3_B9_public',
-    title = 'Captan DAR Volme 3 Annex B.9_public',
+    title = 'Captan DAR Volume 3 Annex B.9_public',
     series = 'Captan DAR 2005',
     bibtype = 'Report',
     institution = 'European Commission',
