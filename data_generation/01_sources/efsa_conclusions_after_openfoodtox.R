@@ -327,3 +327,11 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     DOI = "doi:10.2903/j.efsa.2026.9758",
     URL = "http://dx.doi.org/10.2903/j.efsa.2026.9758"))
 
+# Cymoxanil 2026
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Cymoxanil", OutputID = NA,
+    Published = as.Date("2026-07-07"),
+    Title = "Peer review of the pesticide risk assessment of the active substance cymoxanil",
+    DOI = "doi:10.2903/j.efsa.2026.10150",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2026.10150"))
+

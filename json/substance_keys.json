@@ -370,6 +370,11 @@
     "key": "doi:10.2903/j.efsa.2008.167r"
   },
   {
+    "substance": "Cymoxanil",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2026.10150"
+  },
+  {
     "substance": "Cypermethrin",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2018.5402"
