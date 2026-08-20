@@ -38,6 +38,8 @@ compare_with_git <- function(input_file, git_file) {
     } else {
       copy_to_git <- FALSE
     }
+  } else {
+    copy_to_git <- TRUE
   }
   return(copy_to_git)
 }
