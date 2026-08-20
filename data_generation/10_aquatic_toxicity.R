@@ -44,11 +44,7 @@ check_and_add <- function(filename) {
   input_file <- file.path(derappp_input, directory, filename)
   git_file <- here("data_generation", directory, filename)
 
-  copy_to_git <- if (file.exists(git_file)) {
-    derappp:::compare_with_git(input_file, git_file)
-  } else {
-    TRUE
-  }
+  copy_to_git <- derappp:::compare_with_git(input_file, git_file)
 
   new_raw <- read_xlsx(input_file)
 
