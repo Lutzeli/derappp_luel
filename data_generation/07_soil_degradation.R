@@ -75,18 +75,9 @@ check_and_add <- function(filename) {
   }
 
   # If the above checks are all ok, copy the input file to version control
-  # New file
-  if (!file.exists(git_file)) {
-
-    message("New file, copying to ", git_file)
-    file.copy(input_file, git_file, overwrite = FALSE)
-
-    # Existing file that changed
-  } else if (copy_to_git) {
-
-    message("Copying updated file to ", git_file)
+  if (copy_to_git) {
+    message("Copying to ", git_file)
     file.copy(input_file, git_file, overwrite = TRUE)
-
   }
 
   soil_degradation <<- soil_degradation
