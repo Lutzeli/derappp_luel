@@ -231,14 +231,6 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     DOI = "doi:10.2903/j.efsa.2025.9193",
     URL = "http://dx.doi.org/10.2903/j.efsa.2025.9193"))
 
-# Clomazone 2025
-latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
-  tibble(Substance = "Clomazone", OutputID = NA,
-    Published = as.Date("2025-02-21"),
-    Title = "Peer review of the pesticide risk assessment of the active substance clomazone",
-    DOI = "doi:10.2903/j.efsa.2025.9206",
-    URL = "http://dx.doi.org/10.2903/j.efsa.2025.9206"))
-
 # Cyprodinil 2025
 latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
   tibble(Substance = "Cyprodinil", OutputID = NA,
@@ -255,6 +247,14 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     DOI = "doi:10.2903/j.efsa.2025.9210",
     URL = "http://dx.doi.org/10.2903/j.efsa.2025.9210"))
 
+# Clomazone 2025
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Clomazone", OutputID = NA,
+    Published = as.Date("2025-02-21"),
+    Title = "Peer review of the pesticide risk assessment of the active substance clomazone",
+    DOI = "doi:10.2903/j.efsa.2025.9206",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2025.9206"))
+
 # Pyraclostrobin 2025
 latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
   tibble(Substance = "Pyraclostrobin", OutputID = NA,
@@ -262,6 +262,14 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     Title = "Peer review of the pesticide risk assessment of the active substance pyraclostrobin",
     DOI = "doi:10.2903/j.efsa.2025.9257",
     URL = "http://dx.doi.org/10.2903/j.efsa.2025.9257"))
+
+# Buprofezin 2025
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Buprofezin", OutputID = NA,
+    Published = as.Date("2025-04-24"),
+    Title = "Peer review of the pesticide risk assessment of the active substance buprofezin",
+    DOI = "doi:10.2903/j.efsa.2025.9392",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2025.9392"))
 
 # Maltodextrin 2025
 latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
@@ -295,14 +303,6 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     DOI = "doi:10.2903/j.efsa.2025.9522",
     URL = "http://dx.doi.org/10.2903/j.efsa.2025.9522"))
 
-# Fosetyl 2025
-latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
-  tibble(Substance = "Fosetyl", OutputID = NA,
-    Published = as.Date("2025-08-06"),
-    Title = "Peer review of the pesticide risk assessment of the active substance fosetyl",
-    DOI = "doi:10.2903/j.efsa.2025.9513",
-    URL = "http://dx.doi.org/10.2903/j.efsa.2025.9513"))
-
 # Metalaxyl-M 2025
 latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
   tibble(Substance = "Metalaxyl-M", OutputID = NA,
@@ -310,6 +310,14 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     Title = "Peer review of the pesticide risk assessment of the active substance metalaxyl-M (amendment of approval conditions)",
     DOI = "doi:10.2903/j.efsa.2025.9573",
     URL = "http://dx.doi.org/10.2903/j.efsa.2025.9573"))
+
+# Fosetyl 2025
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Fosetyl", OutputID = NA,
+    Published = as.Date("2025-08-06"),
+    Title = "Peer review of the pesticide risk assessment of the active substance fosetyl",
+    DOI = "doi:10.2903/j.efsa.2025.9513",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2025.9513"))
 
 # Prothioconazole 2025
 latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
@@ -326,6 +334,14 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     Title = "Peer review of the pesticide risk assessment of the active substance pinoxaden in light of confirmatory data submitted",
     DOI = "doi:10.2903/j.efsa.2025.9622",
     URL = "http://dx.doi.org/10.2903/j.efsa.2025.9622"))
+
+# Phenmedipham 2025
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Phenmedipham", OutputID = NA,
+    Published = as.Date("2025-11-07"),
+    Title = "Peer review of the pesticide risk assessment of the active substance phenmedipham",
+    DOI = "doi:10.2903/j.efsa.2025.9711",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2025.9711"))
 
 # Paraffin oil 2026 I
 latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
@@ -359,6 +375,30 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     DOI = "doi:10.2903/j.efsa.2026.9758",
     URL = "http://dx.doi.org/10.2903/j.efsa.2026.9758"))
 
+# Ziram 2026
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Ziram", OutputID = NA,
+    Published = as.Date("2026-02-24"),
+    Title = "Peer review of the pesticide risk assessment of the active substance ziram",
+    DOI = "doi:10.2903/j.efsa.2026.9869",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2026.9869"))
+
+# Clodinafop-propargyl 2026
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Proquinazid", OutputID = NA,
+    Published = as.Date("2026-03-10"),
+    Title = "Updated peer review of the pesticide risk assessment of the active substance clodinafop (variant evaluated clodinafop-propargyl)",
+    DOI = "doi:10.2903/j.efsa.2026.9871",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2026.9871"))
+
+# Proquinazid 2026
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Proquinazid", OutputID = NA,
+    Published = as.Date("2026-05-18"),
+    Title = "Peer review of the pesticide risk assessment of the active substance proquinazid",
+    DOI = "doi:10.2903/j.efsa.2026.10063",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2026.10063"))
+
 # Cymoxanil 2026
 latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
   tibble(Substance = "Cymoxanil", OutputID = NA,
@@ -366,4 +406,20 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     Title = "Peer review of the pesticide risk assessment of the active substance cymoxanil",
     DOI = "doi:10.2903/j.efsa.2026.10150",
     URL = "http://dx.doi.org/10.2903/j.efsa.2026.10150"))
+
+# Bifenazate 2026
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Bifenazate", OutputID = NA,
+    Published = as.Date("2026-07-07"),
+    Title = "Peer review of the pesticide risk assessment of the active substance bifenazate in light of confirmatory data submitted",
+    DOI = "doi:10.2903/j.efsa.2026.10169",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2026.10169"))
+
+# Flurochloridone 2026
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Flurochloridone", OutputID = NA,
+    Published = as.Date("2026-07-13"),
+    Title = "Peer review of the pesticide risk assessment of the active substance flurochloridone",
+    DOI = "doi:10.2903/j.efsa.2026.10185",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2026.10185"))
 
