@@ -3,11 +3,11 @@ Registered S3 method overwritten by 'hoardr':
   method           from
   print.cache_info httr
 ✔ | F W  S  OK | Context
-✔ |          2 | derappp [1.9s]
+✔ |          2 | derappp [1.5s]
 ✔ |         11 | translate
-✔ |         13 | wlt
+✔ |         13 | wlt [1.1s]
 
 ══ Results ═════════════════════════════════════════════════════════════════════
-Duration: 3.2 s
+Duration: 2.9 s
 
 [ FAIL 0 | WARN 0 | SKIP 0 | PASS 26 ]
