@@ -59,7 +59,8 @@ oft_latest_efsa_conclusions_full <- oft$efsa_outputs |>
   group_by(Substance) |>
   summarize(latest = max(Published)) |>
   left_join(oft$efsa_outputs, by = c("Substance", latest = "Published")) |>
-  select(Substance, OutputID, Published = latest, Title, DOI, URL)
+  select(Substance, OutputID, Published = latest, Title, DOI, URL) |>
+  mutate(Substance = gsub("Aluminium sulphate", "Aluminium sulfate", Substance))
 
 oft_latest_efsa_conclusions_partial <- oft$efsa_outputs |>
   filter(OutputType == "Conclusion on Pesticides Peer Review") |>
