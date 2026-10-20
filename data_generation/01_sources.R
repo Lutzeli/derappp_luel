@@ -145,6 +145,7 @@ efsa_map <- efsa_map_auto |>
   "Azadirachtin" ~ "doi:10.2903/j.efsa.2018.5234", # Substance is called Azadirachtin A in OpenFoodTox
   "Emamectin benzoate" ~ "doi:10.2903/j.efsa.2012.2955", # Substance is called Emamectin in OpenFoodTox
   "Fatty acids C10-C20, potassium salts" ~ "doi:10.2903/j.efsa.2013.3023",
+  "Aluminium sulfate" ~ "doi:10.2903/j.efsa.2010.1889", # Substance is called Aluminium sulphate in OpenFoodTox
   default = DOI)
 )
 
