@@ -147,7 +147,7 @@ efsa_map <- efsa_map_auto |>
   "Fatty acids C10-C20, potassium salts" ~ "doi:10.2903/j.efsa.2013.3023",
   "Aluminium sulfate" ~ "doi:10.2903/j.efsa.2010.1889", # Substance is called Aluminium sulphate in OpenFoodTox
   "Haloxyfop-P-methyl" ~ "doi:10.2903/j.efsa.2009.1348", # Substance is called Haloxyfop-P-methyl ester in OpenFoodTox
-                           
+  "Potassium bicarbonate" ~ "doi:10.2903/j.efsa.2018.5407", # Substance is called Sodium bicarbonatein OpenFoodTox
   default = DOI)
 )
 
