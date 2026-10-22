@@ -149,7 +149,11 @@ efsa_map <- efsa_map_auto |>
   "Haloxyfop-P-methyl" ~ "doi:10.2903/j.efsa.2009.1348", # Substance is called Haloxyfop-P-methyl ester in OpenFoodTox
   "Potassium bicarbonate" ~ "doi:10.2903/j.efsa.2018.5407", # Substance is called Sodium bicarbonatein OpenFoodTox
   default = DOI)
-)
+) |>
+  bind_rows(tribble(~substance,               ~DOI,
+  "Potassium bicarbonate",  "doi:10.2903/j.efsa.2021.6593" # 2021 conclusion not in OpenFoodTox
+    )
+  )
 
 # Check for unmapped chemical entities
 efsa_map <- efsa_map |>
