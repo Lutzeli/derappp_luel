@@ -469,12 +469,21 @@ wlt <- function(
       wlt_type <- "ANIMAL"
     }
 
-    ret <- list(
-      wlt = unique(tox_critical[["wlt_candidate"]]),
-      wlt_type = wlt_type,
-      ratios_salt_nosalt = ratios_salt_nosalt,
-      data = tox_final
-    )
+    if (length(tox_critical[["wlt_candidate"]]) == 0) {
+      ret <- list(
+        wlt = set_units(NA, "mg/L"),
+        wlt_type = NA,
+        ratios_salt_nosalt = NA,
+        data = tox_final
+      )
+    } else {
+      ret <- list(
+        wlt = unique(tox_critical[["wlt_candidate"]]),
+        wlt_type = wlt_type,
+        ratios_salt_nosalt = ratios_salt_nosalt,
+        data = tox_final
+      )
+    }
 
     class(ret) <- "wlt"
     return(ret)

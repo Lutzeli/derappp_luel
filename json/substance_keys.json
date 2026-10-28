@@ -175,6 +175,11 @@
     "key": "doi:10.2903/j.efsa.2021.6818"
   },
   {
+    "substance": "Bifenazate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2026.10169"
+  },
+  {
     "substance": "Bifenox",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2008.119r"
@@ -238,6 +243,11 @@
     "substance": "Buprofezin",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2015.4207"
+  },
+  {
+    "substance": "Buprofezin",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9392"
   },
   {
     "substance": "Captan",
@@ -1245,6 +1255,11 @@
     "key": "doi:10.2903/j.efsa.2018.5151"
   },
   {
+    "substance": "Phenmedipham",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2025.9711"
+  },
+  {
     "substance": "Phosphonic acid",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2018.5307"
@@ -1318,6 +1333,16 @@
     "substance": "Proquinazid",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2009.1350"
+  },
+  {
+    "substance": "Proquinazid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2026.10063"
+  },
+  {
+    "substance": "Proquinazid",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2026.9871"
   },
   {
     "substance": "Prosulfocarb",
@@ -1663,6 +1688,11 @@
     "substance": "Zeta-cypermethrin",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2009.196r"
+  },
+  {
+    "substance": "Ziram",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2026.9869"
   },
   {
     "substance": "Zoxamide",
