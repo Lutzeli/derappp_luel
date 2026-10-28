@@ -28,6 +28,7 @@ effects <- tribble( ~ effect, ~ definition,
 # Effect levels
 effect_levels <- tribble( ~ level, ~ definition,
   "EC10", "Concentration at which 10 percent effect size is expected",
+  "EC15", "Concentration at which 15 percent effect size is expected",
   "EC20", "Concentration at which 20 percent effect size is expected",
   "EC50", "Concentration at which 50 percent effect size is expected",
 

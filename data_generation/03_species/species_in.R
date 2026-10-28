@@ -142,4 +142,6 @@ species_in <- tribble(~species, ~group,
   "Chroococcus minutus", "Aquatic cyanobacteria",
   "Scenedesmus obliquus", "Aquatic algae",
   "Ecdyonurus sp.", "Aquatic invertebrates",
+  "Oncorhynchus clarkii", "Fish",
+  "Crassostrea sp.", "Aquatic invertebrates",
   )

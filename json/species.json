@@ -513,6 +513,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Crassostrea sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Crassostrea",
+    "ott_id": 355604,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Crassostrea virginica",
     "group": "Aquatic invertebrates",
     "derappp_species": "Crassostrea virginica",
@@ -1345,6 +1354,15 @@
     "group": "Fish",
     "derappp_species": "Oncorhynchus mykiss (species in domain Eukaryota)",
     "ott_id": 165368,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Oncorhynchus clarkii",
+    "group": "Fish",
+    "derappp_species": "Oncorhynchus clarkii",
+    "ott_id": 800432,
     "is_synonym": false,
     "flags": "",
     "salt_water_species": false
