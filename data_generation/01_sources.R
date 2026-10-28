@@ -71,7 +71,7 @@ oft_latest_efsa_conclusions_partial <- oft$efsa_outputs |>
   left_join(oft$efsa_outputs, by = c("Substance", latest = "Published")) |>
   select(Substance, OutputID, Published = latest, Title, DOI, URL)
 
-# We include some older EFSA conclusions for the following reasons:
+# We manually include some older EFSA conclusions for the following reasons:
 
 # Captan 2009: Contains endpoints based on nominal concentrations that are
 # considered relevant for surface water assessments based on PECini
@@ -126,13 +126,15 @@ efsa_map_auto <- substances |>
     by = c(lower_case_name = "lower_case_substance"), relationship = "many-to-many") |>
   select(substance, DOI)
 
-# Flurochloridone 2010
+# Substances with a different name in OpenFoodTox
 # According to the flurochloridone data sheet of the BCPC (accessed 2025-02-24),
 # the ISO definition of flurochloridone has meanwhile been relaxed to simply
 # designate a mixture of the trans and cis isomers, with the comment:
 # "The proportion of isomers was originally defined as a 3:1 ratio."
 # Therefore, the IUPAC name used in OpenFoodtox (explicitly not stating
 # a ratio) can be mapped to our definition which is based on the ISO definition.
+# A similar case is Meptyldinocap, where the ISO definition was apparently updated 
+# to allow for up to 25% of the minor component after the EFSA conclusion was published
 efsa_map <- efsa_map_auto |>
   mutate(DOI = recode_values(substance,
   "Copper oxychloride" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
@@ -145,7 +147,8 @@ efsa_map <- efsa_map_auto |>
   "Azadirachtin" ~ "doi:10.2903/j.efsa.2018.5234", # Substance is called Azadirachtin A in OpenFoodTox
   "Emamectin benzoate" ~ "doi:10.2903/j.efsa.2012.2955", # Substance is called Emamectin in OpenFoodTox
   "Fatty acids C10-C20, potassium salts" ~ "doi:10.2903/j.efsa.2013.3023",
-  "Aluminium sulfate" ~ "doi:10.2903/j.efsa.2010.1889", # Substance is called Aluminium sulphate in OpenFoodTox
+  "Aluminium sulfate" ~ "doi:10.2903/j.efsa.2010.1889", # Substance is called Aluminium sulphate in OpenFoodTox,
+  "Meptyldinocap" ~ "doi:10.2903/j.efsa.2014.3473", # Substance is called differently in OpenFoodTox
   default = DOI)
 )
 

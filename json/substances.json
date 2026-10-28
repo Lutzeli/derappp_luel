@@ -1321,8 +1321,18 @@
   },
   {
     "substance": "Meptyldinocap",
-    "n_chents": 0,
-    "type": "undefined"
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Meptyldinocap-(E)",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Meptyldinocap-(Z)",
+    "n_chents": 1,
+    "type": "chent"
   },
   {
     "substance": "Mesosulfuron-methyl",

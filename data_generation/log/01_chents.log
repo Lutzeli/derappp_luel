@@ -3406,3 +3406,19 @@ Common name Tetradecanoic acid, potassium salt is not known at the BCPC compendi
 Querying PubChem for smiles CCCCCCCCCCCCCC(=O)O.[K+] ...
 Get chemical information from RDKit using user SMILES
 CCCCCCCCCCCCCC(=O)O.[K+]
+
+chent Meptyldinocap-(E)
+Meptyldinocap-(E) | TRUE | NA | CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C/C | PubChem | NA
+Querying BCPC for Meptyldinocap-(E) ...
+Common name Meptyldinocap-(E) is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C/C ...
+Get chemical information from RDKit using user SMILES
+CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C/C
+
+chent Meptyldinocap-(Z)
+Meptyldinocap-(Z) | TRUE | NA | CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C\C | Agroscope | NA
+Querying BCPC for Meptyldinocap-(Z) ...
+Common name Meptyldinocap-(Z) is not known at the BCPC compendium, trying PubChem
+Querying PubChem for smiles CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C\C ...
+Get chemical information from RDKit using user SMILES
+CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C\C

@@ -44,6 +44,10 @@
     "definition": "No observed effect concentration"
   },
   {
+    "level": "LOEC",
+    "definition": "Lowest observed effect concentration"
+  },
+  {
     "level": "NOER",
     "definition": "No observed effect rate"
   }

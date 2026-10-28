@@ -1482,6 +1482,18 @@
     "max": 1
   },
   {
+    "substance": "Meptyldinocap-(E)",
+    "chent": "Meptyldinocap-(E)",
+    "min": 1,
+    "max": 1
+  },
+  {
+    "substance": "Meptyldinocap-(Z)",
+    "chent": "Meptyldinocap-(Z)",
+    "min": 1,
+    "max": 1
+  },
+  {
     "substance": "Mesosulfuron-methyl",
     "chent": "Mesosulfuron-methyl",
     "min": 1,
@@ -2510,6 +2522,18 @@
     "page": 17
   },
   {
+    "substance": "Meptyldinocap",
+    "chent": "Meptyldinocap-(E)",
+    "min": 0.75,
+    "max": 1
+  },
+  {
+    "substance": "Meptyldinocap",
+    "chent": "Meptyldinocap-(Z)",
+    "min": 0,
+    "max": 0.25
+  },
+  {
     "substance": "Pyrethrins",
     "chent": "Pyrethrin I",
     "min": 0,
@@ -2660,9 +2684,6 @@
   },
   {
     "substance": "Mancozeb"
-  },
-  {
-    "substance": "Meptyldinocap"
   },
   {
     "substance": "Metiram"

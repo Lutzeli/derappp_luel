@@ -148,6 +148,13 @@
     "file": "10.2903/j.efsa.2022.7544_LoEP.pdf"
   },
   {
+    "sk": "j.efsa.2014.3473",
+    "reference": "EFSA. _Conclusion on the peer review of the pesticide risk\nassessment of the active substance DE-126, referred to as meptyldinocap\nin Commission Decision 2006/589/EC._ EFSA conclusion. European Food\nSafety Authority, Jan. 03, 2014. DOI: doi:10.2903/j.efsa.2014.3473.\n<http://dx.doi.org/10.2903/j.efsa.2014.3473>.",
+    "year": "2014",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2014.3473",
+    "file": "10.2903/j.efsa.2014.3473.pdf"
+  },
+  {
     "sk": "j.efsa.2014.3742",
     "reference": "EFSA. _Conclusion on the peer review of the pesticide risk\nassessment of the active substance amitrole_. EFSA conclusion. European\nFood Safety Authority, Jul. 01, 2014. DOI:\ndoi:10.2903/j.efsa.2014.3742.\n<http://dx.doi.org/10.2903/j.efsa.2014.3742>.",
     "year": "2014",
@@ -783,6 +790,13 @@
     "year": "2018",
     "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2018.5307#support-information-section",
     "file": "10.2903/j.efsa.2018.5307_LoEP.pdf"
+  },
+  {
+    "sk": "j.efsa.2010.1889",
+    "reference": "EFSA. _Conclusion on the peer review of the pesticide risk\nassessment of the active substance aluminium sulfate_. EFSA conclusion.\nEuropean Food Safety Authority, Nov. 05, 2010. DOI:\ndoi:10.2903/j.efsa.2010.1889.\n<http://dx.doi.org/10.2903/j.efsa.2010.1889>.",
+    "year": "2010",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2010.1889",
+    "file": "10.2903/j.efsa.2010.1889.pdf"
   },
   {
     "sk": "j.efsa.2009.182r",
@@ -4005,5 +4019,17 @@
     "reference": "Anonymous. _Tebuconazole DAR Volume 3 Annex B.9 part2 public_.\nDraft Assessment Report (DAR). European Commission, 2007.",
     "year": "2007",
     "file": "EU_DAR_dRAR/Tebuconazole_DAR_2007/Tebuconazole_DAR_12_Vol3_B9_part2_public.pdf"
+  },
+  {
+    "sk": "Sulphur_RAR_11_Volume_3CA_B-9_2022-08_sanitised",
+    "reference": "Anonymous. _Sulphur RAR 11 Volume 3CA B9 2022-08 sanitised_. Draft\nRenewal Assessment Report (RAR). European Commission, 2022.",
+    "year": "2022",
+    "file": "EU_DAR_dRAR/Sulfur_RAR_revised_2022/Sulphur_RAR_11_Volume_3CA_B-9_2022-08_sanitised.pdf"
+  },
+  {
+    "sk": "Sulphur_DAR_2008_11_Vol3_B9_public",
+    "reference": "Anonymous. _Sulphur DAR 2008 11 Vol3 B9 public_. Draft Assessment\nReport (DAR). European Commission, 2008.",
+    "year": "2008",
+    "file": "EU_DAR_dRAR/Sulphur_DAR_2008/Sulphur_DAR_2008_11_Vol3_B9_public.pdf"
   }
 ]

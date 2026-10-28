@@ -409,6 +409,12 @@
 - Mefentrifluconazole
 - Mepanipyrim
 - Mepiquat chloride
+- Meptyldinocap-(E):
+    smiles: CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C/C
+    source: PubChem
+- Meptyldinocap-(Z):
+    smiles: CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C\C
+    source: Agroscope
 - Mesosulfuron-methyl
 - Mesotrione
 - Metalaxyl
