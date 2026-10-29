@@ -141,19 +141,15 @@ efsa_map <- efsa_map_auto |>
   "Copper(II) nitrate" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
   "Copper(II) sulfate" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
   "Flurochloridone" ~ "doi:10.2903/j.efsa.2010.1869", # ISO definition has been updated
+  "Potassium bicarbonate",  "doi:10.2903/j.efsa.2021.6593" # substance not in OpenFoodTox
   "Triclopyr-butotyl" ~ "doi:10.2903/j.efsa.2024.8177", # 2024 conclusion not in OpenFoodTox
   "Azadirachtin" ~ "doi:10.2903/j.efsa.2018.5234", # Substance is called Azadirachtin A in OpenFoodTox
   "Emamectin benzoate" ~ "doi:10.2903/j.efsa.2012.2955", # Substance is called Emamectin in OpenFoodTox
   "Fatty acids C10-C20, potassium salts" ~ "doi:10.2903/j.efsa.2013.3023",
   "Aluminium sulfate" ~ "doi:10.2903/j.efsa.2010.1889", # Substance is called Aluminium sulphate in OpenFoodTox
   "Haloxyfop-P-methyl" ~ "doi:10.2903/j.efsa.2009.1348", # Substance is called Haloxyfop-P-methyl ester in OpenFoodTox
-  "Potassium bicarbonate" ~ "doi:10.2903/j.efsa.2018.5407", # Substance is called Sodium bicarbonatein OpenFoodTox
   default = DOI)
-) |>
-  bind_rows(tribble(~substance,               ~DOI,
-  "Potassium bicarbonate",  "doi:10.2903/j.efsa.2021.6593" # 2021 conclusion not in OpenFoodTox
-    )
-  )
+)
 
 # Check for unmapped chemical entities
 efsa_map <- efsa_map |>
