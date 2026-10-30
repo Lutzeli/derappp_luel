@@ -4,6 +4,10 @@
     "definition": "Concentration at which 10 percent effect size is expected"
   },
   {
+    "level": "EC15",
+    "definition": "Concentration at which 15 percent effect size is expected"
+  },
+  {
     "level": "EC20",
     "definition": "Concentration at which 20 percent effect size is expected"
   },
@@ -42,6 +46,10 @@
   {
     "level": "NOEC",
     "definition": "No observed effect concentration"
+  },
+  {
+    "level": "LOEC",
+    "definition": "Lowest observed effect concentration"
   },
   {
     "level": "NOER",

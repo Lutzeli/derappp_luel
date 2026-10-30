@@ -28,6 +28,7 @@ effects <- tribble( ~ effect, ~ definition,
 # Effect levels
 effect_levels <- tribble( ~ level, ~ definition,
   "EC10", "Concentration at which 10 percent effect size is expected",
+  "EC15", "Concentration at which 15 percent effect size is expected",
   "EC20", "Concentration at which 20 percent effect size is expected",
   "EC50", "Concentration at which 50 percent effect size is expected",
 
@@ -42,6 +43,7 @@ effect_levels <- tribble( ~ level, ~ definition,
   "LR50", "Rate at which 50 percent mortality is expected",
 
   "NOEC", "No observed effect concentration",
+  "LOEC", "Lowest observed effect concentration",
   "NOER", "No observed effect rate")
 
 # Life stages

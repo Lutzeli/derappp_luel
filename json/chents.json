@@ -2254,6 +2254,22 @@
     "bcpc_activity": "plant growth regulators"
   },
   {
+    "chent": "Meptyldinocap-(E)",
+    "ai": true,
+    "mw": 364.4,
+    "smiles": "CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C/C",
+    "pubchem": 5284389,
+    "inchikey": "NIOPZPCMRQGZCE-WEVVVXLNSA-N"
+  },
+  {
+    "chent": "Meptyldinocap-(Z)",
+    "ai": true,
+    "mw": 364.4,
+    "smiles": "CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C\\C",
+    "pubchem": 71312641,
+    "inchikey": "NIOPZPCMRQGZCE-UITAMQMPSA-N"
+  },
+  {
     "chent": "Mesosulfuron-methyl",
     "ai": true,
     "mw": 503.5,

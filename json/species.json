@@ -72,6 +72,24 @@
     "salt_water_species": false
   },
   {
+    "species": "Ankistrodesmus bibraianus",
+    "group": "Aquatic algae",
+    "derappp_species": "Selenastrum bibraianum",
+    "ott_id": 30556,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ankistrodesmus bibrianus",
+    "group": "Aquatic algae",
+    "derappp_species": "Selenastrum bibraianum",
+    "ott_id": 30556,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Ankistrodesmus falcatus",
     "group": "Aquatic algae",
     "derappp_species": "Ankistrodesmus falcatus",
@@ -87,6 +105,15 @@
     "ott_id": 893789,
     "is_synonym": false,
     "flags": "sibling_higher, inconsistent",
+    "salt_water_species": false
+  },
+  {
+    "species": "Aphanothece clathrata",
+    "group": "Aquatic cyanobacteria",
+    "derappp_species": "Anathece clathrata",
+    "ott_id": 4016597,
+    "is_synonym": true,
+    "flags": "",
     "salt_water_species": false
   },
   {
@@ -175,6 +202,15 @@
     "group": "Fish",
     "derappp_species": "Salmo trutta",
     "ott_id": 688332,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "C. pulchellum",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Coenagrion pulchellum",
+    "ott_id": 235167,
     "is_synonym": false,
     "flags": "",
     "salt_water_species": false
@@ -288,6 +324,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Cherax quadricarinatus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Cherax quadricarinatus",
+    "ott_id": 46784,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Chironomus riparius",
     "group": "Aquatic invertebrates",
     "derappp_species": "Chironomus riparius (species in domain Eukaryota)",
@@ -369,6 +414,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Chroococcus minutus",
+    "group": "Aquatic cyanobacteria",
+    "derappp_species": "Chroococcus minutus",
+    "ott_id": 637673,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Chydorus sphaericus",
     "group": "Aquatic invertebrates",
     "derappp_species": "Chydorus sphaericus",
@@ -400,6 +454,15 @@
     "group": "Aquatic algae",
     "derappp_species": "Closterium cornu",
     "ott_id": 401398,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Coenagrion pulchellum",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Coenagrion pulchellum",
+    "ott_id": 235167,
     "is_synonym": false,
     "flags": "",
     "salt_water_species": false
@@ -446,6 +509,15 @@
     "derappp_species": "Magallana gigas",
     "ott_id": 987409,
     "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Crassostrea sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Crassostrea",
+    "ott_id": 355604,
+    "is_synonym": false,
     "flags": "",
     "salt_water_species": false
   },
@@ -607,6 +679,15 @@
     "group": "Aquatic invertebrates",
     "derappp_species": "Metacarcinus magister",
     "ott_id": 812825,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Ecdyonurus sp.",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Ecdyonurus",
+    "ott_id": 391928,
     "is_synonym": false,
     "flags": "",
     "salt_water_species": false
@@ -1026,6 +1107,15 @@
     "salt_water_species": true
   },
   {
+    "species": "Leptodactylus latrans",
+    "group": "Amphibians",
+    "derappp_species": "Leptodactylus latrans",
+    "ott_id": 4948324,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Leuciscus idus",
     "group": "Fish",
     "derappp_species": "Leuciscus idus",
@@ -1044,10 +1134,46 @@
     "salt_water_species": false
   },
   {
+    "species": "Leuciscus idus melanotus",
+    "group": "Fish",
+    "derappp_species": "Leuciscus idus",
+    "ott_id": 41137,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Lithobates pipiens",
+    "group": "Amphibians",
+    "derappp_species": "Rana pipiens",
+    "ott_id": 14703,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Lithobates sylvaticus",
+    "group": "Amphibians",
+    "derappp_species": "Rana sylvatica",
+    "ott_id": 4133610,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Louisiana crayfish",
     "group": "Aquatic invertebrates",
     "derappp_species": "Procambarus clarkii",
     "ott_id": 79864,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Lumbriculus variegatus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Lumbriculus variegatus",
+    "ott_id": 180477,
     "is_synonym": false,
     "flags": "",
     "salt_water_species": false
@@ -1179,6 +1305,24 @@
     "salt_water_species": false
   },
   {
+    "species": "Neohelice granulata",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Neohelice granulata",
+    "ott_id": 459441,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Neohelice granulate",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Neohelice granulata",
+    "ott_id": 459441,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Neomacheilus barbatulus",
     "group": "Fish",
     "derappp_species": "Barbatula barbatula",
@@ -1210,6 +1354,15 @@
     "group": "Fish",
     "derappp_species": "Oncorhynchus mykiss (species in domain Eukaryota)",
     "ott_id": 165368,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Oncorhynchus clarkii",
+    "group": "Fish",
+    "derappp_species": "Oncorhynchus clarkii",
+    "ott_id": 800432,
     "is_synonym": false,
     "flags": "",
     "salt_water_species": false
@@ -1395,6 +1548,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Planorbarius corneus",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Planorbarius corneus",
+    "ott_id": 277506,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Planorbella trivolvis",
     "group": "Aquatic invertebrates",
     "derappp_species": "Planorbella trivolvis",
@@ -1494,6 +1656,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Rana pipiens",
+    "group": "Amphibians",
+    "derappp_species": "Rana pipiens",
+    "ott_id": 14703,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Ranunculus aquatilis",
     "group": "Aquatic macrophytes",
     "derappp_species": "Ranunculus aquatilis",
@@ -1584,6 +1755,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Scenedesmus obliquus",
+    "group": "Aquatic algae",
+    "derappp_species": "Tetradesmus obliquus",
+    "ott_id": 651329,
+    "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Scenedesmus pannonicus",
     "group": "Aquatic algae",
     "derappp_species": "Desmodesmus pannonicus",
@@ -1625,6 +1805,15 @@
     "derappp_species": "Desmodesmus subspicatus",
     "ott_id": 727399,
     "is_synonym": true,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
+    "species": "Selenastrum bibraianum",
+    "group": "Aquatic algae",
+    "derappp_species": "Selenastrum bibraianum",
+    "ott_id": 30556,
+    "is_synonym": false,
     "flags": "",
     "salt_water_species": false
   },

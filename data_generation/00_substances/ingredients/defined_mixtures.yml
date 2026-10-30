@@ -132,6 +132,15 @@ Lime sulfur:
     Calcium thiosulfate:
       min: 0
       max: 0.025
+Meptyldinocap:
+  sk: BCPC_Compendium
+  chents:
+    Meptyldinocap-(E):
+      min: 0.75
+      max: 1
+    Meptyldinocap-(Z):
+      min: 0
+      max: 0.25
 Pyrethrins:
   doi: 10.2903/j.efsa.2013.3032
   page: 7
