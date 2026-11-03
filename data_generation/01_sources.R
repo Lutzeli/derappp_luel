@@ -427,7 +427,7 @@ derappp_bib_rar_sssd_rr <- c(
     author = "{Greece}",
     type = "Draft Assessment Report (DAR)",
     title = "Draft Assessment Report (DAR) - Paraffin Oil (CAS 8042-47-5)",
-    date = "2008-08",
+    date = "2008-08-18",
     file = "EU_DAR_dRAR/Paraffin_oil_DAR_2008/Paraffin oil ASU_DAR_07_Vol3_B9_public.pdf"
   ),
   BibEntry(
