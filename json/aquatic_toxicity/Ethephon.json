@@ -17,7 +17,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Cyprinus carpio",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -38,7 +38,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Cyprinodon variegatus",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -59,7 +59,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Pimephales promelas",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -82,7 +82,7 @@
     "note": ">100mg prep./L (perhaps, these are three different products)",
     "reported_species": "Oncorhynchus mykiss",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -105,7 +105,7 @@
     "note": ">100mg prep./L (perhaps, these are three different products)",
     "reported_species": "Oncorhynchus mykiss",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -115,6 +115,7 @@
     "test_nr": "6",
     "test_system": "flow-through",
     "duration": 34,
+    "life_stage": "early life stage",
     "effect": "reproduction",
     "level": "NOEC",
     "sign": "=",
@@ -127,7 +128,7 @@
     "note": "ELS",
     "reported_species": "Pimephales promelas",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -137,6 +138,7 @@
     "test_nr": "7",
     "test_system": "flow-through",
     "duration": 34,
+    "life_stage": "early life stage",
     "effect": "reproduction",
     "level": "NOEC",
     "sign": "=",
@@ -149,7 +151,7 @@
     "note": "ELS",
     "reported_species": "Pimephales promelas",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -159,6 +161,7 @@
     "test_nr": "7",
     "test_system": "flow-through",
     "duration": 34,
+    "life_stage": "early life stage",
     "effect": "reproduction",
     "level": "EC10",
     "sign": ">",
@@ -171,7 +174,7 @@
     "note": "ELS",
     "reported_species": "Pimephales promelas",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -181,6 +184,7 @@
     "test_nr": "7",
     "test_system": "flow-through",
     "duration": 34,
+    "life_stage": "early life stage",
     "effect": "reproduction",
     "level": "EC20",
     "sign": ">",
@@ -193,7 +197,7 @@
     "note": "ELS",
     "reported_species": "Pimephales promelas",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -214,7 +218,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Daphnia magna",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -235,7 +239,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Daphnia magna",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -257,7 +261,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Crassostrea virginica",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -279,7 +283,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Crassostrea virginica",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -302,7 +306,7 @@
     "note": ">160mg prep./L",
     "reported_species": "Daphnia magna",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -325,7 +329,7 @@
     "note": ">100mg prep./L",
     "reported_species": "Daphnia magna",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -347,7 +351,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Daphnia magna",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -367,7 +371,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Daphnia magna",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -387,7 +391,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Daphnia magna",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -409,29 +413,7 @@
     "note": "test duration 72-96 h!",
     "reported_species": "Navicula pelliculosa",
     "recorded": "luel",
-    "checked": "mamr",
-    "file": "ethephon_aquatic_toxicity.xlsx"
-  },
-  {
-    "substance": "Ethephon",
-    "derappp_species": "Fistulifera pelliculosa",
-    "group": "Aquatic algae",
-    "test_nr": "14",
-    "test_system": "static",
-    "duration": 3,
-    "effect": "growth rate",
-    "level": "NOEC",
-    "sign": "=",
-    "value": 0.807,
-    "measured": "mm",
-    "sk": "j.efsa.2023.7742",
-    "page": "78",
-    "selected": true,
-    "reason": "EFSA LoEP",
-    "note": "test duration 72-96 h!",
-    "reported_species": "Navicula pelliculosa",
-    "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -453,7 +435,7 @@
     "note": "test duration 72-96 h!",
     "reported_species": "Navicula pelliculosa",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -463,7 +445,6 @@
     "test_nr": "14",
     "test_system": "static",
     "duration": 3,
-    "effect": "yield",
     "level": "NOEC",
     "sign": "=",
     "value": 0.807,
@@ -475,7 +456,7 @@
     "note": "test duration 72-96 h!",
     "reported_species": "Navicula pelliculosa",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -496,7 +477,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Pseudokirchneriella subspicata",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -517,7 +498,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Pseudokirchneriella subspicata",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -538,7 +519,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Pseudokirchneriella subspicata",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -559,7 +540,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Pseudokirchneriella subspicata",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -580,28 +561,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Anabaena flos-aquae",
     "recorded": "luel",
-    "checked": "mamr",
-    "file": "ethephon_aquatic_toxicity.xlsx"
-  },
-  {
-    "substance": "Ethephon",
-    "derappp_species": "Dolichospermum flos-aquae",
-    "group": "Aquatic cyanobacteria",
-    "test_nr": "17",
-    "test_system": "static",
-    "duration": 3,
-    "effect": "growth rate",
-    "level": "NOEC",
-    "sign": "=",
-    "value": 3.79,
-    "measured": "mm",
-    "sk": "j.efsa.2023.7742",
-    "page": "78",
-    "selected": true,
-    "reason": "EFSA LoEP",
-    "reported_species": "Anabaena flos-aquae",
-    "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -622,7 +582,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Anabaena flos-aquae",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -632,7 +592,6 @@
     "test_nr": "17",
     "test_system": "static",
     "duration": 3,
-    "effect": "yield",
     "level": "NOEC",
     "sign": "=",
     "value": 3.79,
@@ -643,7 +602,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Anabaena flos-aquae",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -666,7 +625,7 @@
     "note": ">75.8mg prep./L",
     "reported_species": "Pseudokirchneriella subcapitata",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -689,7 +648,7 @@
     "note": ">89.3mg prep./L",
     "reported_species": "Pseudokirchneriella subcapitata",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -700,7 +659,6 @@
     "test_nr": "19",
     "test_system": "static",
     "duration": 3,
-    "effect": "growth rate",
     "level": "NOEC",
     "sign": "=",
     "value": 47.1,
@@ -712,7 +670,7 @@
     "note": ">89.3mg prep./L",
     "reported_species": "Pseudokirchneriella subcapitata",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -735,7 +693,7 @@
     "note": ">68mg prep./L",
     "reported_species": "Desmodesmus subspicatus",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -758,7 +716,7 @@
     "note": ">46.3mg prep./L",
     "reported_species": "Synechococcus leopoliensis",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -769,7 +727,6 @@
     "test_nr": "21",
     "test_system": "static",
     "duration": 3,
-    "effect": "yield",
     "level": "NOEC",
     "sign": "=",
     "value": 3.24,
@@ -781,7 +738,7 @@
     "note": ">8.18mg prep./L",
     "reported_species": "Synechococcus leopoliensis",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -804,29 +761,7 @@
     "note": ">30.7mg prep./L",
     "reported_species": "Synechococcus leopoliensis",
     "recorded": "luel",
-    "checked": "mamr",
-    "file": "ethephon_aquatic_toxicity.xlsx"
-  },
-  {
-    "substance": "Ethephon",
-    "derappp_species": "Lemna gibba",
-    "group": "Aquatic macrophytes",
-    "test_nr": "22",
-    "test_system": "semi-static",
-    "duration": 14,
-    "effect": "growth",
-    "effect_details": "Fronds number",
-    "level": "EC50",
-    "sign": "=",
-    "value": 1.5,
-    "measured": "nom",
-    "sk": "j.efsa.2023.7742",
-    "page": "79",
-    "selected": true,
-    "reason": "EFSA LoEP",
-    "reported_species": "Lemna gibba",
-    "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -848,7 +783,7 @@
     "reason": "EFSA LoEP",
     "reported_species": "Lemna gibba",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -858,7 +793,7 @@
     "test_nr": "22",
     "test_system": "semi-static",
     "duration": 14,
-    "effect": "growth",
+    "effect": "yield",
     "effect_details": "Fronds number, yield",
     "level": "EC50",
     "sign": "=",
@@ -868,10 +803,9 @@
     "page": "79",
     "selected": true,
     "reason": "EFSA LoEP",
-    "note": "Fronds number",
     "reported_species": "Lemna gibba",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -881,8 +815,8 @@
     "test_nr": "22",
     "test_system": "semi-static",
     "duration": 14,
-    "effect": "growth",
-    "effect_details": "Fronds number",
+    "effect": "growth rate",
+    "effect_details": "Fronds number, sectional ErC50",
     "level": "EC50",
     "sign": "=",
     "value": 1.66,
@@ -894,7 +828,7 @@
     "note": "Sectional",
     "reported_species": "Lemna gibba",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -917,7 +851,7 @@
     "note": "with sediment",
     "reported_species": "Myriophyllum spicatum",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -930,7 +864,7 @@
     "effect": "growth rate",
     "effect_details": "Total shoot length / fresh weight/dry weight",
     "level": "NOEC",
-    "sign": "=",
+    "sign": ">",
     "value": 70.7,
     "measured": "mm",
     "sk": "j.efsa.2023.7742",
@@ -940,7 +874,7 @@
     "note": "with sediment",
     "reported_species": "Myriophyllum spicatum",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -963,7 +897,7 @@
     "note": "with sediment",
     "reported_species": "Myriophyllum spicatum",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -976,7 +910,7 @@
     "effect": "yield",
     "effect_details": "Total shoot length / fresh weight/dry weight",
     "level": "NOEC",
-    "sign": "=",
+    "sign": ">",
     "value": 70.7,
     "measured": "mm",
     "sk": "j.efsa.2023.7742",
@@ -986,7 +920,7 @@
     "note": "with sediment",
     "reported_species": "Myriophyllum spicatum",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -996,7 +930,7 @@
     "test_nr": "24",
     "test_system": "semi-static",
     "duration": 14,
-    "effect": "yield",
+    "effect": "growth rate",
     "effect_details": "Total shoot length/fresh weight/dry weight",
     "level": "EC50",
     "sign": "=",
@@ -1009,7 +943,7 @@
     "note": "sediment-free",
     "reported_species": "Myriophyllum spicatum",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -1031,7 +965,7 @@
     "note": "sediment-free",
     "reported_species": "Myriophyllum spicatum",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -1054,7 +988,7 @@
     "note": "sediment-free",
     "reported_species": "Myriophyllum spicatum",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -1077,7 +1011,7 @@
     "note": "with sediment",
     "reported_species": "Myriophyllum spicatum",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -1091,7 +1025,7 @@
     "effect_details": "Fresh weight",
     "level": "NOEC",
     "sign": "=",
-    "value": 120,
+    "value": 37.5,
     "measured": "nom",
     "sk": "j.efsa.2023.7742",
     "page": "80",
@@ -1100,7 +1034,7 @@
     "note": "with sediment",
     "reported_species": "Myriophyllum spicatum",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -1121,10 +1055,10 @@
     "page": "80",
     "selected": true,
     "reason": "EFSA LoEP",
-    "note": ">42.2mg prep./L",
+    "note": "Based on the information given in the RAR, a greater than sign is missing from the ErC50 of 42.2mg prep./L given in the EFSA conclusion, as >17.3 mg a.s./L (mm) would correspond to > 42 mg/L preparation (mm).",
     "reported_species": "Lemna gibba",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -1135,7 +1069,6 @@
     "test_nr": "26",
     "test_system": "semi-static",
     "duration": 14,
-    "effect": "growth rate",
     "effect_details": "Frond area and number",
     "level": "NOEC",
     "sign": "=",
@@ -1148,7 +1081,31 @@
     "note": ">0.068mg prep./L",
     "reported_species": "Lemna gibba",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
+    "file": "ethephon_aquatic_toxicity.xlsx"
+  },
+  {
+    "substance": "Ethephon",
+    "formulation": "600 SL CA3147",
+    "derappp_species": "Lemna gibba",
+    "group": "Aquatic macrophytes",
+    "test_nr": "27",
+    "test_system": "semi-static",
+    "duration": 7,
+    "effect": "growth rate",
+    "effect_details": "Frond number/dry weight",
+    "level": "EC50",
+    "sign": ">",
+    "value": 37.4,
+    "measured": "mm",
+    "sk": "j.efsa.2023.7742",
+    "page": "81",
+    "selected": true,
+    "reason": "EFSA LoEP",
+    "note": ">71mg prep./L",
+    "reported_species": "Lemna gibba",
+    "recorded": "luel",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -1172,7 +1129,7 @@
     "note": ">71mg prep./L",
     "reported_species": "Lemna gibba",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -1183,7 +1140,6 @@
     "test_nr": "27",
     "test_system": "semi-static",
     "duration": 7,
-    "effect": "yield",
     "effect_details": "Frond number/dry weight",
     "level": "NOEC",
     "sign": "=",
@@ -1196,7 +1152,7 @@
     "note": ">6.84mg prep./L",
     "reported_species": "Lemna gibba",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -1220,7 +1176,7 @@
     "note": ">61.6mg prep./L",
     "reported_species": "Lemna gibba",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -1244,7 +1200,7 @@
     "note": ">61.6mg prep./L",
     "reported_species": "Lemna gibba",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   },
   {
@@ -1265,10 +1221,10 @@
     "page": "81",
     "selected": true,
     "reason": "EFSA LoEP",
-    "note": ">61.6mg prep./L",
+    "note": "<61.6mg prep./L",
     "reported_species": "Lemna gibba",
     "recorded": "luel",
-    "checked": "mamr",
+    "checked": "mamr, rajo",
     "file": "ethephon_aquatic_toxicity.xlsx"
   }
 ]
