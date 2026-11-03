@@ -860,6 +860,11 @@
     "key": "doi:10.2903/j.efsa.2014.3913"
   },
   {
+    "substance": "Haloxyfop-P-methyl",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2009.1348"
+  },
+  {
     "substance": "Hymexazol",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2010.1653"
@@ -958,6 +963,11 @@
     "substance": "Lenacil",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2024.8860"
+  },
+  {
+    "substance": "Lime sulfur",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2010.1890"
   },
   {
     "substance": "Linuron",
@@ -1308,6 +1318,11 @@
     "substance": "Pirimicarb",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2024.9046"
+  },
+  {
+    "substance": "Potassium bicarbonate",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2021.6593"
   },
   {
     "substance": "Prochloraz",

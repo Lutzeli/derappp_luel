@@ -23,4 +23,12 @@ test_that("the derappp data object is internally consistent",{
     select(derappp_species, group.x, group.y)
   expect_equal(nrow(inconsistent_groups), 0L)
 
+  # Check if units in aquatic_toxicity are converted correctly (µg/l -> mg/l)
+  # for abamectin
+  min_abamectin_ep <- min(
+    derappp$aquatic_toxicity[
+      derappp$aquatic_toxicity$substance == "Abamectin",]$value
+    )
+  expect_equal(min_abamectin_ep, set_units(6.7e-06, "mg/L"))
+
 })

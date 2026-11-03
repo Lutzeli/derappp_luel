@@ -328,7 +328,7 @@
     "effect": "mortality",
     "level": "EC50",
     "sign": ">",
-    "value": 32,
+    "value": 0.032,
     "measured": "mm",
     "sk": "j.efsa.2018.5252_LoEP",
     "page": "92",

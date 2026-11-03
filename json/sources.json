@@ -12,9 +12,9 @@
   },
   {
     "sk": "ranke2026chents",
-    "reference": "J. Ranke. _chents: Chemical Entities as R Objects_. R package\nversion 0.4.1. 2026. <https://pkgdown.jrwb.de/chents/>.",
+    "reference": "J. Ranke. _chents: Chemical Entities as R Objects_. R package\nversion 0.4.2, commit 7c84d4ac9d1178717fba6d1f0c988c8ed2834980. 2026.\n<https://github.com/jranke/chents>.",
     "year": "2026",
-    "url": "https://pkgdown.jrwb.de/chents/"
+    "url": "https://github.com/jranke/chents"
   },
   {
     "sk": "BCPC_Compendium",
@@ -1541,6 +1541,13 @@
     "file": "10.2903/j.efsa.2014.3913.pdf"
   },
   {
+    "sk": "j.efsa.2009.1348",
+    "reference": "EFSA. _Conclusion on the peer review of the pesticide risk\nassessment of the active substance haloxyfop-P (haloxyfop-R)_. EFSA\nconclusion. European Food Safety Authority, Nov. 05, 2009. DOI:\ndoi:10.2903/j.efsa.2009.1348.\n<http://dx.doi.org/10.2903/j.efsa.2009.1348>.",
+    "year": "2009",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2009.1348",
+    "file": "10.2903/j.efsa.2009.1348.pdf"
+  },
+  {
     "sk": "j.efsa.2017.4832",
     "reference": "EFSA. _Peer review of the pesticide risk assessment of the active\nsubstance mecoprop-P_. EFSA conclusion. European Food Safety Authority,\nMay. 18, 2017. DOI: doi:10.2903/j.efsa.2017.4832.\n<http://dx.doi.org/10.2903/j.efsa.2017.4832>.",
     "year": "2017",
@@ -1679,6 +1686,13 @@
     "year": "2013",
     "url": "http://dx.doi.org/10.2903/j.efsa.2013.3354",
     "file": "10.2903/j.efsa.2013.3354.pdf"
+  },
+  {
+    "sk": "j.efsa.2010.1890",
+    "reference": "EFSA. _Conclusion on the peer review of the pesticide risk\nassessment of the active substance lime sulfur_. EFSA conclusion.\nEuropean Food Safety Authority, Nov. 05, 2010. DOI:\ndoi:10.2903/j.efsa.2010.1890.\n<http://dx.doi.org/10.2903/j.efsa.2010.1890>.",
+    "year": "2010",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2010.1890",
+    "file": "10.2903/j.efsa.2010.1890.pdf"
   },
   {
     "sk": "j.efsa.2016.4518",
@@ -1952,6 +1966,20 @@
     "year": "2005",
     "url": "http://dx.doi.org/10.2903/j.efsa.2005.43r",
     "file": "10.2903/j.efsa.2005.43r.pdf"
+  },
+  {
+    "sk": "j.efsa.2021.6593",
+    "reference": "EFSA. _Peer review of the pesticide risk assessment of the active\nsubstance potassium hydrogen carbonate_. EFSA conclusion. European Food\nSafety Authority, May. 11, 2021. DOI: doi:10.2903/j.efsa.2021.6593.\n<http://dx.doi.org/10.2903/j.efsa.2021.6593>.",
+    "year": "2021",
+    "url": "http://dx.doi.org/10.2903/j.efsa.2021.6593",
+    "file": "10.2903/j.efsa.2021.6593.pdf"
+  },
+  {
+    "sk": "j.efsa.2021.6593_LoEP",
+    "reference": "EFSA. _Appendix to: Peer review of the pesticide risk assessment of\nthe active substance potassium hydrogen carbonate_. EFSA conclusion.\nEuropean Food Safety Authority, May. 11, 2021. DOI:\ndoi:10.2903/j.efsa.2021.6593.\n<https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2021.6593#support-information-section>.",
+    "year": "2021",
+    "url": "https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2021.6593#support-information-section",
+    "file": "10.2903/j.efsa.2021.6593_LoEP.pdf"
   },
   {
     "sk": "j.efsa.2010.1555",
@@ -3108,6 +3136,12 @@
     "file": "EU_Review_Reports/MCPB_RR_2005.pdf"
   },
   {
+    "sk": "Paraffin_oil_ASU_DAR_07_Vol3_B9_public",
+    "reference": "Greece. _Draft Assessment Report (DAR) - Paraffin Oil (CAS\n8042-47-5)_. Draft Assessment Report (DAR). European Commission, Aug.\n18, 2008.",
+    "year": "2008",
+    "file": "EU_DAR_dRAR/Paraffin_oil_DAR_2008/Paraffin oil ASU_DAR_07_Vol3_B9_public.pdf"
+  },
+  {
     "sk": "Prosulfocarb_RR_2007",
     "reference": "Anonymous. _Review report for the active substance prosulfocarb_.\nReview report. European Commission, Sep. 10, 2007.",
     "year": "2007",
@@ -4007,6 +4041,12 @@
     "reference": "Anonymous. _Captan DAR Volume 3 Annex B.9 public_. Draft Assessment\nReport (DAR). European Commission, 2005.",
     "year": "2005",
     "file": "EU_DAR_dRAR/Captan_DAR_2005/Captan_DAR_07_Vol 3_B9_public"
+  },
+  {
+    "sk": "Diuron_RAR_22_LoEP_2018-03-16",
+    "reference": "Germany and Denmark. _Diuron RAR 22 List of End Points (LoEP)_.\nRenewal Assessment Report (RAR). Rapporteur Member State: Germany;\nCo-Rapporteur Member State: Denmark. European Commission, 2018.",
+    "year": "2018",
+    "file": "EU_DAR_dRAR/Diuron_RAR_2018/Diuron_RAR_22_LoEP_2018-03-16.pdf"
   },
   {
     "sk": "Folpet_DAR_07_Vol_3_B9_public",

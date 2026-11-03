@@ -143,13 +143,14 @@ efsa_map <- efsa_map_auto |>
   "Copper(II) nitrate" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
   "Copper(II) sulfate" ~ "doi:10.2903/j.efsa.2018.5152", # substance not in OpenFoodTox
   "Flurochloridone" ~ "doi:10.2903/j.efsa.2010.1869", # ISO definition has been updated
-  "Potassium bicarbonate",  "doi:10.2903/j.efsa.2021.6593" # substance not in OpenFoodTox
+  "Potassium bicarbonate" ~ "doi:10.2903/j.efsa.2021.6593", # substance not in OpenFoodTox
   "Triclopyr-butotyl" ~ "doi:10.2903/j.efsa.2024.8177", # 2024 conclusion not in OpenFoodTox
+  "Aluminium sulfate" ~ "doi:10.2903/j.efsa.2010.1889", # Substance is called Aluminium sulphate in OpenFoodTox
   "Azadirachtin" ~ "doi:10.2903/j.efsa.2018.5234", # Substance is called Azadirachtin A in OpenFoodTox
   "Emamectin benzoate" ~ "doi:10.2903/j.efsa.2012.2955", # Substance is called Emamectin in OpenFoodTox
   "Fatty acids C10-C20, potassium salts" ~ "doi:10.2903/j.efsa.2013.3023",
-  "Aluminium sulfate" ~ "doi:10.2903/j.efsa.2010.1889", # Substance is called Aluminium sulphate in OpenFoodTox
   "Haloxyfop-P-methyl" ~ "doi:10.2903/j.efsa.2009.1348", # Substance is called Haloxyfop-P-methyl ester in OpenFoodTox
+  "Lime sulfur" ~ "doi:10.2903/j.efsa.2010.1890", # Substance is called Lime sulphur in OpenFoodTox
   "Meptyldinocap" ~ "doi:10.2903/j.efsa.2014.3473", # Substance is called differently in OpenFoodTox
   default = DOI)
 )
@@ -426,7 +427,7 @@ derappp_bib_rar_sssd_rr <- c(
     author = "{Greece}",
     type = "Draft Assessment Report (DAR)",
     title = "Draft Assessment Report (DAR) - Paraffin Oil (CAS 8042-47-5)",
-    date = "2008-08",
+    date = "2008-08-18",
     file = "EU_DAR_dRAR/Paraffin_oil_DAR_2008/Paraffin oil ASU_DAR_07_Vol3_B9_public.pdf"
   ),
   BibEntry(
