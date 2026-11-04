@@ -3459,6 +3459,14 @@
     "bcpc_activity": "herbicides"
   },
   {
+    "chent": "Trinexapac",
+    "ai": false,
+    "mw": 224.21,
+    "smiles": "C1CC1C(=C2C(=O)CC(CC2=O)C(=O)O)O",
+    "pubchem": 14371531,
+    "inchikey": "DFFWZNDCNBOKDI-UHFFFAOYSA-N"
+  },
+  {
     "chent": "Trinexapac-ethyl",
     "ai": true,
     "mw": 252.26,

@@ -2250,6 +2250,12 @@
     "max": 1
   },
   {
+    "substance": "Trinexapac",
+    "chent": "Trinexapac",
+    "min": 1,
+    "max": 1
+  },
+  {
     "substance": "Trinexapac-ethyl",
     "chent": "Trinexapac-ethyl",
     "min": 1,

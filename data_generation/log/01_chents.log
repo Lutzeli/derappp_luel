@@ -3438,3 +3438,9 @@ Common name Milbemycin A4 is not known at the BCPC compendium, trying PubChem
 Querying PubChem for name Milbemycin A4 ...
 Get chemical information from RDKit using PubChem SMILES
 CC[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/C[C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)\C)C
+
+chent Trinexapac
+Trinexapac | FALSE | NA | NA | NA | NA
+Querying PubChem for name Trinexapac ...
+Get chemical information from RDKit using PubChem SMILES
+C1CC1C(=C2C(=O)CC(CC2=O)C(=O)O)O

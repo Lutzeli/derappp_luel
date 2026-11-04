@@ -595,6 +595,8 @@
     source: Pubchem
 - Trifluralin
 - Triflusulfuron-methyl
+- Trinexapac:
+    TP: True
 - Trinexapac-ethyl
 - Triticonazole
 - Tritosulfuron

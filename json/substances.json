@@ -2025,6 +2025,11 @@
     "type": "chent"
   },
   {
+    "substance": "Trinexapac",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
     "substance": "Trinexapac-ethyl",
     "n_chents": 1,
     "type": "chent"
