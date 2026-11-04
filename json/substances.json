@@ -1431,6 +1431,16 @@
   },
   {
     "substance": "Milbemectin",
+    "n_chents": 2,
+    "type": "mixture"
+  },
+  {
+    "substance": "Milbemycin A3",
+    "n_chents": 1,
+    "type": "chent"
+  },
+  {
+    "substance": "Milbemycin A4",
     "n_chents": 1,
     "type": "chent"
   },

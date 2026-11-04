@@ -2443,14 +2443,20 @@
     "bcpc_activity": "herbicides"
   },
   {
-    "chent": "Milbemectin",
+    "chent": "Milbemycin A3",
     "ai": true,
-    "iso": "Milbemectin",
     "mw": 528.7,
     "smiles": "C[C@H]1CC[C@]2(C[C@@H]3C[C@H](O2)C/C=C(/C[C@H](/C=C/C=C/4\\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)\\C)O[C@@H]1C",
     "pubchem": 9828343,
-    "inchikey": "ZLBGSRMUSVULIE-GSMJGMFJSA-N",
-    "bcpc_activity": "acaricides"
+    "inchikey": "ZLBGSRMUSVULIE-GSMJGMFJSA-N"
+  },
+  {
+    "chent": "Milbemycin A4",
+    "ai": true,
+    "mw": 542.7,
+    "smiles": "CC[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/C[C@H](/C=C/C=C/4\\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)\\C)C",
+    "pubchem": 9959038,
+    "inchikey": "VOZIAWLUULBIPN-LRBNAKOISA-N"
   },
   {
     "chent": "Myclobutanil",

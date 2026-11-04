@@ -1602,8 +1602,14 @@
     "max": 1
   },
   {
-    "substance": "Milbemectin",
-    "chent": "Milbemectin",
+    "substance": "Milbemycin A3",
+    "chent": "Milbemycin A3",
+    "min": 1,
+    "max": 1
+  },
+  {
+    "substance": "Milbemycin A4",
+    "chent": "Milbemycin A4",
     "min": 1,
     "max": 1
   },
@@ -2532,6 +2538,18 @@
     "chent": "Meptyldinocap-(Z)",
     "min": 0,
     "max": 0.25
+  },
+  {
+    "substance": "Milbemectin",
+    "chent": "Milbemycin A3",
+    "min": 0.3,
+    "max": 0.3
+  },
+  {
+    "substance": "Milbemectin",
+    "chent": "Milbemycin A4",
+    "min": 0.7,
+    "max": 0.7
   },
   {
     "substance": "Pyrethrins",

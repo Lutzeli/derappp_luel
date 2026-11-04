@@ -55,6 +55,14 @@ latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
     DOI = "doi:10.2903/j.efsa.2023.7997",
     URL = "http://dx.doi.org/10.2903/j.efsa.2023.7997"))
 
+# Milebemectin 2023
+latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
+  tibble(Substance = "Milbemectin", OutputID = NA,
+    Published = as.Date("2023-06-30"),
+    Title = "Peer review of the pesticide risk assessment of the active substance milbemectin",
+    DOI = "doi:10.2903/j.efsa.2023.8126",
+    URL = "http://dx.doi.org/10.2903/j.efsa.2023.8126"))
+
 # Folpet 2023
 latest_efsa_conclusions <- rbind(latest_efsa_conclusions,
   tibble(Substance = "Folpet", OutputID = NA,

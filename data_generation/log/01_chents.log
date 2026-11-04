@@ -3422,3 +3422,19 @@ Common name Meptyldinocap-(Z) is not known at the BCPC compendium, trying PubChe
 Querying PubChem for smiles CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C\C ...
 Get chemical information from RDKit using user SMILES
 CCCCCCC(C)C1=C(C(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-])OC(=O)/C=C\C
+
+chent Milbemycin A3
+Milbemycin A3 | TRUE | NA | NA | NA | NA
+Querying BCPC for Milbemycin A3 ...
+Common name Milbemycin A3 is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Milbemycin A3 ...
+Get chemical information from RDKit using PubChem SMILES
+C[C@H]1CC[C@]2(C[C@@H]3C[C@H](O2)C/C=C(/C[C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)\C)O[C@@H]1C
+
+chent Milbemycin A4
+Milbemycin A4 | TRUE | NA | NA | NA | NA
+Querying BCPC for Milbemycin A4 ...
+Common name Milbemycin A4 is not known at the BCPC compendium, trying PubChem
+Querying PubChem for name Milbemycin A4 ...
+Get chemical information from RDKit using PubChem SMILES
+CC[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/C[C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)\C)C

@@ -144,4 +144,5 @@ species_in <- tribble(~species, ~group,
   "Ecdyonurus sp.", "Aquatic invertebrates",
   "Oncorhynchus clarkii", "Fish",
   "Crassostrea sp.", "Aquatic invertebrates",
+  "Chaoborus obscuripes", "Aquatic invertebrates",
   )

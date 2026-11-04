@@ -141,6 +141,15 @@ Meptyldinocap:
     Meptyldinocap-(Z):
       min: 0
       max: 0.25
+Milbemectin:
+  sk: 10.2903/j.efsa.2023.8126
+  chents:
+    Milbemycin A3:
+      min: 0.3
+      max: 0.3
+    Milbemycin A4:
+      min: 0.7
+      max: 0.7
 Pyrethrins:
   doi: 10.2903/j.efsa.2013.3032
   page: 7

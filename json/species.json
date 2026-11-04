@@ -306,6 +306,15 @@
     "salt_water_species": false
   },
   {
+    "species": "Chaoborus obscuripes",
+    "group": "Aquatic invertebrates",
+    "derappp_species": "Chaoborus obscuripes",
+    "ott_id": 447525,
+    "is_synonym": false,
+    "flags": "",
+    "salt_water_species": false
+  },
+  {
     "species": "Chaoborus sp.",
     "group": "Aquatic invertebrates",
     "derappp_species": "Chaoborus",
