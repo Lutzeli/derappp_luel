@@ -1020,6 +1020,11 @@
     "key": "doi:10.2903/j.efsa.2017.4832"
   },
   {
+    "substance": "Mecoprop-P",
+    "db": "efsa_conclusions",
+    "key": "doi:10.2903/j.efsa.2023.8344"
+  },
+  {
     "substance": "Mefentrifluconazole",
     "db": "efsa_conclusions",
     "key": "doi:10.2903/j.efsa.2018.5379"
