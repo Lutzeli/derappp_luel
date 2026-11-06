@@ -216,7 +216,7 @@ check_and_add <- function(filename) {
       sk, page, sk_RAR, page_RAR, selected, reason, note, reported_species, recorded, checked, file)
 
   # Check for duplicates
-  dup_columns <- c("substance", "formulation", "test_nr", "derappp_species", "effect", "duration", "level", "sign", "value")
+  dup_columns <- c("substance", "formulation", "test_nr", "derappp_species", "effect", "effect_details", "duration", "level", "sign", "value")
   dup_index <- aquatic_toxicity |>
     select(any_of(dup_columns)) |>
     duplicated()
@@ -325,6 +325,7 @@ check_and_add("metrafenone_aquatic_toxicity.xlsx")
 check_and_add("milbemectin_aquatic_toxicity.xlsx")
 #check_and_add("paraffin_oil_aquatic_toxicity.xlsx")
 check_and_add("penoxsulam_aquatic_toxicity.xlsx")
+check_and_add("phenmedipham_aquatic_toxicity.xlsx")
 check_and_add("pirimicarb_aquatic_toxicity.xlsx")
 check_and_add("propamocarb_aquatic_toxicity.xlsx")
 #check_and_add("pyrethrins_aquatic_toxicity.xlsx")
